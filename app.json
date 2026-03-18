@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "smoke-tracker",
+    "name": "Smoke Session Tracker",
     "slug": "smoke-tracker",
-    "version": "1.0.0",
+    "version": "1.1",
     "orientation": "portrait",
     "icon": "./assets/images/tracker_logo_8K.png",
     "scheme": "smoketracker",
