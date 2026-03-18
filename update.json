@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1",
-  "apk_url": "https://github.com/SafinRweb/Smoke-Session-Tacker/releases/download/v1.1/SmokeTracker-v1.1.0.apk",
+  "latest_version": "1.2",
+  "apk_url": "https://github.com/SafinRweb/Smoke-Session-Tacker/releases/download/v1.2/Smoke.Session.Tracker.-.Version.1.2.0.apk",
   "release_notes": "Added a brand new update checker and squashed some bugs!",
   "force_update": false
 }
